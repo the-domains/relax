@@ -12,5 +12,9 @@ color:
     - '#FFFAE4'
 layout_spectrum: 0.7107011054176837
 name: relax
+navigation:
+  - name: 'Reduced Spoke Bicycles : Conceptual Bike'
+    id: b6bb904b-c671-4255-93ff-c9003967626d
+    type: content
 title: happy
 description: relax
