@@ -1,0 +1,14 @@
+layout_spectrum: 0.7107011054176837
+typography_spectrum: 0.9741416196338832
+color:
+  brandStrength: 0.8739533342886716
+  lightness: 0.5349900419823825
+  saturation: 0.08135040220804513
+  rhythmicContrast: 0.7904170041438192
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: relax
